@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Li3SEQlcoEk=",
+  "success": true,
+  "projectFilePath": "C:\\projects\\adventofcode\\2024\\FSharpAdventOfCode\\FSharpAdventOfCode.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnc\\.nuget\\packages\\fsharp.core\\9.0.100\\fsharp.core.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
